@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invicta.Net.SisoRef010", "Invicta.Net.SisoRef010\Invicta.Net.SisoRef010.csproj", "{94919FC1-73FB-4764-A478-B15BBFC28C2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invicta.Net.SisoRef010.CodeGeneration", "Invicta.Net.SisoRef010.CodeGeneration\Invicta.Net.SisoRef010.CodeGeneration.csproj", "{6D850153-CFCD-4BA8-8DA6-DE4E0E48AF66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94919FC1-73FB-4764-A478-B15BBFC28C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94919FC1-73FB-4764-A478-B15BBFC28C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94919FC1-73FB-4764-A478-B15BBFC28C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94919FC1-73FB-4764-A478-B15BBFC28C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D850153-CFCD-4BA8-8DA6-DE4E0E48AF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D850153-CFCD-4BA8-8DA6-DE4E0E48AF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D850153-CFCD-4BA8-8DA6-DE4E0E48AF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D850153-CFCD-4BA8-8DA6-DE4E0E48AF66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71E7DCA4-11D6-42C6-91B4-6500ABE59BEC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿{
+	"replacements": {
+		"&": "And",
+		"/": "Or",
+		"(?<decimal>\\d)\\.(?=\\d)": "${decimal}_"
+	},
+
+	"default": ""
+}

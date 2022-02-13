@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Invicta.Net.Dis.SisoRef010.CodeGeneration": {
+      "commandName": "Project",
+      "commandLineArgs": "\"rules.json\" \"Xml/SISO-REF-010.xml\""
+    }
+  }
+}
